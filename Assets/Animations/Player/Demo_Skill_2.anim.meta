@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 68897b22c0ea0a5449045fb801e41bd5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 134455
+  packageName: '2D Simple Character : Berserker'
+  packageVersion: 1.0
+  assetPath: Assets/Berserker/Demo_MiniGame/1.Animation/Lv1/Demo_Skill_2.anim
+  uploadId: 284152

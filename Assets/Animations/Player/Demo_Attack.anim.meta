@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3fd623b3e7835bb4184a9667a31b72ff
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 134455
+  packageName: '2D Simple Character : Berserker'
+  packageVersion: 1.0
+  assetPath: Assets/Berserker/Demo_MiniGame/1.Animation/Lv1/Demo_Attack.anim
+  uploadId: 284152
